@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp35", "ConsoleApp35\ConsoleApp35.csproj", "{12D0A6E2-F717-42F9-9733-7C3D05904935}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "ConsoleApp35\BinarySearchTree.csproj", "{12D0A6E2-F717-42F9-9733-7C3D05904935}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
